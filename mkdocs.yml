@@ -1,5 +1,5 @@
 site_name: HUST开源计划
-site_url: https://csdiy.wiki/
+site_url: https://github.com/YuhangChen1/HUST_OPEN_SOURCE
 site_author: Francis_Chen
 site_description: >-
   HUST开源计划
@@ -14,8 +14,8 @@ theme:
   language: zh
   static_templates:
     - 404.html
-  favicon: images/favicon.ico
-  apple-touch-icon-precomposed: images/mobile_icon.png
+  # favicon: images/favicon.ico
+  # apple-touch-icon-precomposed: images/mobile_icon.png
   include_search_page: false
   search_index_only: true
 
@@ -61,10 +61,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pkuflyingpig/cs-self-learning/
-  analytics:
-    provider: google
-    property: G-KJB4RXSKZG
+      link: https://github.com/YuhangChen1/HUST_OPEN_SOURCE
+  # analytics:
+  #   provider: google
+  #   property: G-KJB4RXSKZG
 
 nav:
   - 前言: "index.md"
