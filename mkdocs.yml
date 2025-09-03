@@ -93,10 +93,16 @@ nav:
       - "大学物理 (University Physics)":
           - "大学物理1": "通识课程/physics1.md"
           - "大学物理2": "通识课程/physics2.md"
-          - "大学物理实验1": "通识课程/physics_experiment1.md"
-          - "大学物理实验2": "通识课程/physics_experiment2.md"
+          - "大学物理实验": "通识课程/physics_experiment.md"
       - "电路 (Circuits)":
           - "电路理论—非电气学院": "通识课程/circuit.md"
       - "概率论 (Probability Theory)":
           - "概率论": "通识课程/probability.md"
+      - "线性代数 (Linear Algebra)":
+          - "线性代数": "通识课程/linear_algebra.md"
+          
+  - 计算机学院:
+      - "前言": "计算机学院/index.md"
+      - "C语言 (C Language)": "计算机学院/c.md"
+      - "程序设计": "计算机学院/c_design.md" 
   

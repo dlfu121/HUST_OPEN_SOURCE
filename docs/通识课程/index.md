@@ -1,7 +1,5 @@
 ## 📚 课程资料概览 (Course Materials Overview)
 
-### 🧮 数学与物理基础 (Math & Physics Foundations)。
-
 * **微积分 (Calculus):**
     * [微积分上](./calculus1.md/)
     * [微积分下](./calculus2.md/)
@@ -14,3 +12,5 @@
     * [电路理论—非电气学院](./circuit.md)
 * **概率论 (Probability Theory):**
     * [概率论](./probability.md)
+* **线性代数 (Linear Algebra):**
+    * [线性代数](./linear_algebra.md)
