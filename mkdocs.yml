@@ -87,22 +87,32 @@ nav:
   # - 好书推荐: "好书推荐.md"
   - 通识课:
       - "前言": "通识课程/index.md"
-      - "微积分 (Calculus)":
+      - "微积分 ":
           - "微积分上": "通识课程/calculus1.md"
           - "微积分下": "通识课程/calculus2.md"
-      - "大学物理 (University Physics)":
+      - "大学物理 ":
           - "大学物理1": "通识课程/physics1.md"
           - "大学物理2": "通识课程/physics2.md"
           - "大学物理实验": "通识课程/physics_experiment.md"
-      - "电路 (Circuits)":
+      - "电路 ":
           - "电路理论—非电气学院": "通识课程/circuit.md"
-      - "概率论 (Probability Theory)":
+      - "概率论 ":
           - "概率论": "通识课程/probability.md"
-      - "线性代数 (Linear Algebra)":
+      - "线性代数 ":
           - "线性代数": "通识课程/linear_algebra.md"
+      - "中国语文 ":
+          - "中国语文": "通识课程/Chinese.md"
+      - "综合英语 ":
+          - "综合英语": "通识课程/English1.md"
+      - "思想道德与法治 ":
+          - "思想道德与法治": "通识课程/Ideological.md"
+      - "思政课社会实践 ":
+          - "思政课社会实践": "通识课程/Ideological_pratice.md"
+      - "启明学院一元分析 ":
+          - "启明学院一元分析": "通识课程/qiming_colleage_special.md"
           
   - 计算机学院:
       - "前言": "计算机学院/index.md"
-      - "C语言 (C Language)": "计算机学院/c.md"
+      - "C语言 ": "计算机学院/c.md"
       - "程序设计": "计算机学院/c_design.md" 
   

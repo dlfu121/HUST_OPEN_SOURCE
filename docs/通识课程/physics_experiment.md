@@ -8,7 +8,7 @@
 
 **本课没有任何往年题目 没有任何资料参考 常见的好课也会随着老师的变动和课程的改变而改变 没有传统意义上的绝对好课**
 
-**学解**
+**学解题目全部为假题**
 ## 唯一的资料：
 - [思考题](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C.zip)
 - [所谓样卷](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E9%83%A8%E5%88%86%E6%A0%B7%E5%8D%B7.pdf)
