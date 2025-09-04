@@ -23,7 +23,7 @@ A：辜还行，其他不知道
 - [辜 2024秋](https://github.com/YuhangChen1/HUSR-CS-Learning/tree/master/c%2B%2B/c%E8%89%B9%E8%AF%BE%E4%BB%B6)
 
 ### 参考书籍
-- [https://github.com/YuhangChen1/HUSR-CS-Learning/tree/master/c%2B%2B/%E5%A4%8D%E4%B9%A0]
+- [c++](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/c%2B%2B/%E5%A4%8D%E4%B9%A0/Primer%20c%2B%2B%20%E7%AC%AC5%E7%89%88(1).pdf)
 
 ### 2024:华为实验
 **感谢计算机学院[Nuyoahwjl](https://github.com/Nuyoahwjl)**
