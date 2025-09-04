@@ -9,22 +9,33 @@
 
 ## 课程内容
 
-最恶心的是
+最恶心的是latex它是分十几个文件发给你的...作业居然是写latex...
+最后的作业是设计网页
 
-### 2025:百分号数独
-- [百分号数独](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/2025.zip)
+## 课程资源推荐
 
-### 2024：对角线数独
-- [对角线数独1](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)，[报告](https://github.com/Nuyoahwjl/HUST-CS/blob/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf)
+**感谢计算机学院[Nuyoahwjl](https://github.com/Nuyoahwjl) 他的网页真的很好看！！**
 
-- [对角线数独2](https://github.com/Ilosyi/Hust-CS-Learning-Library/tree/main/IIA%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)，[报告](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIA%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%BC%E5%90%88%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/%E2%80%9C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E2%80%9D%E7%BB%BC%E5%90%88%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.docx)
+- [源码](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E6%96%B0%E7%94%9F%E5%AE%9E%E8%B7%B5%E8%AF%BE/%E6%BA%90%E7%A0%81)
 
-### 2023：蜂窝数独
-- [蜂窝数独1](https://github.com/cnint0627/hust-sat-solver)
+- [课件](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E6%96%B0%E7%94%9F%E5%AE%9E%E8%B7%B5%E8%AF%BE/%E8%AF%BE%E4%BB%B6)
 
-- [蜂窝数独2](https://github.com/jiajingyyyyyy/HUST-SAT_solver_embedded_in_hanidoku)
+- [报告](https://github.com/Nuyoahwjl/HUST-CS/blob/main/%E6%96%B0%E7%94%9F%E5%AE%9E%E8%B7%B5%E8%AF%BE/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
 
-### 2022：双数独
-- [双数独1](https://github.com/hakureiR-eimu/DoubleSudokuGame)
+## 光(wai)明(men)正(xie)道
 
-- [双数独2](https://github.com/HT1108/SAT-DPLL-Solver)
+### latex
+谁要下载那狗屎软件
+
+- [overleaf中文站](https://cn.overleaf.com/)
+
+- [Texpage](https://www.texpage.com/zh/)
+
+### Web设计
+直接套用github模板
+
+- [学术主页](https://academicpages.github.io/),[教程](https://blog.csdn.net/qd1813100174/article/details/128604858)
+
+- [b站教程](httdeo/BV1Gz4y1f7Qj/?spm_id_from=333.337.search-card.all.click&vd_source=7cd55330e6609595be6c1939520e3bc8)
+
+- [中文主页](https://github.com/tangjyan/zh-cn)

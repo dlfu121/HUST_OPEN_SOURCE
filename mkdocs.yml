@@ -69,22 +69,6 @@ extra:
 nav:
   - 前言: "index.md"
   - 如何使用: "使用指南.md"
-  # - 必学工具:
-  #     - 翻墙: "必学工具/翻墙.md"
-  #     - Vim: "必学工具/Vim.md"
-  #     - Emacs: "必学工具/Emacs.md"
-  #     - Git: "必学工具/Git.md"
-  #     - GitHub: "必学工具/GitHub.md"
-  #     - "GNU Make": "必学工具/GNU_Make.md"
-  #     - CMake: "必学工具/CMake.md"
-  #     - LaTeX: "必学工具/LaTeX.md"
-  #     - Docker: "必学工具/Docker.md"
-  #     - Scoop: "必学工具/Scoop.md"
-  #     - 日常学习工作流: "必学工具/workflow.md"
-  #     - 实用工具箱: "必学工具/tools.md"
-  #     - 毕业论文: "必学工具/thesis.md"
-  #     - 信息检索: "必学工具/信息检索.md"
-  # - 好书推荐: "好书推荐.md"
   - 通识课:
       - "前言": "通识课程/index.md"
       - "微积分 ":
@@ -115,4 +99,10 @@ nav:
       - "前言": "计算机学院/index.md"
       - "C语言 ": "计算机学院/c.md"
       - "程序设计": "计算机学院/c_design.md" 
+      - "新生实践课": "计算机学院/pratice.md"
+      - "计算思维": "计算机学院/computational_thinking.md"
+  - 生命科学与技术学院:
+      - "前言": "生命科学与技术学院/index.md"
+      - "微生物学 (Microbiology)": "生命科学与技术学院/microbiology.md"
+
   
