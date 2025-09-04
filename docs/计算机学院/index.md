@@ -3,4 +3,7 @@
 * **C语言程序设计:**
     * [C语言基础](./c.md)
     * [C语言课程设计](./c_design.md)
+    * [计算思维](./computational_thinking.md)
+    * [新生实践课](./pratice.md)
+
 
