@@ -128,7 +128,8 @@ nav:
           - "新生实践课": "计算机学院/pratice.md"
       - "人工智能导论":
           - "人工智能导论": "计算机学院/ai.md"
-
+      - "硬件综合训练":
+          - "硬件综合训练": "计算机学院/Hardware_training.md"
   - 生命科学与技术学院:
       - "前言": "生命科学与技术学院/index.md"
       - "微生物学 (Microbiology)": "生命科学与技术学院/microbiology.md"

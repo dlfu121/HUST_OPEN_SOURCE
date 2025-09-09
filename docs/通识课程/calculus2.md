@@ -22,6 +22,9 @@
 
 ## 课程试卷
 
+### 20225年
+- [期末试卷](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/%E8%AF%95%E5%8D%B7/2024-2025%E5%BE%AE%E7%A7%AF%E5%88%86B%EF%BC%88%E4%B8%8B%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.docx)
+
 ### 2024年
 - [期中试卷及解答](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/%E8%AF%95%E5%8D%B7/2023%E7%BA%A7%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E4%B8%80%EF%BC%89%E4%B8%8B%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
 - [期末A卷](https://github.com/YuhangChen1/Hust-opensource-Xuejie/blob/main/IB%20%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E4%BA%8C%EF%BC%89/2023%E7%BA%A7%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E4%B8%80%EF%BC%89%E4%B8%8B%E6%9C%9F%E6%9C%ABA%E5%8D%B7.pdf),[答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/final/2023%E7%BA%A7%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E9%A2%98%20-%20%E8%A7%A3%E7%AD%94.pdf)
