@@ -17,4 +17,5 @@
 -->
 
 ## 个人笔记
-- [微生物学知识点总结](https://github.com/eurioncao/microbiology-notes.git)：根据考试重点内容总结而成。
+- [微生物学知识点总结](https://github.com/eurioncao/microbiology-notes)：根据考试重点内容总结而成。
+
